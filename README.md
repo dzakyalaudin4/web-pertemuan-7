@@ -1,6 +1,8 @@
-# Praktikum 7 API
+# Praktikum 7 API Pemograman Web
 
-Stephen Pratama Kurnia|TI.22.A5|312210635
+NAMA : DZAKY ALAUDIN MALIK
+NIM : 312210495
+KELAS : TI22A5
 
 ### Post.php
 
